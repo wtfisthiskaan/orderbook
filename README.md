@@ -48,9 +48,11 @@ int main(){
 }
 ```
 ## Output
-
+```bash
 1
 0
+```
+
 
 ## 📦 Dependencies
 Standard C++ Libraries (<iostream>, <map>, <list>, etc.)
